@@ -8,5 +8,8 @@ const Colors = {
 
 export const theme = {
     background : Colors.white,
-    text : Colors.text
+    text : Colors.text,
+
+    btnBackground: Colors.main,
+    btnTitle: Colors.white
 }
